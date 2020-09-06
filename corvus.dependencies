@@ -1,8 +1,8 @@
 [
   {
-    "repository": "Blacksuan19/kernel_dark_ages_vince",
+    "repository": "stormbreaker-project/vince",
     "target_path": "kernel/xiaomi/vince",
-    "branch": "darky",
+    "branch": "release",
     "remote": "github"
  },
   {
@@ -11,4 +11,10 @@
     "branch": "ten",
     "remote": "github"
   },
+  {
+    "repository": "kdrag0n/proton-clang",
+    "target_path": "prebuilts/clang/host/linux-x86/clang-12",
+    "branch": "master",
+    "remote": "github"
+  }
 ]
