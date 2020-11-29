@@ -2,7 +2,7 @@
   {
     "repository": "stormbreaker-project/vince",
     "target_path": "kernel/xiaomi/vince",
-    "branch": "release",
+    "branch": "a10",
     "remote": "github"
  },
   {
